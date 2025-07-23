@@ -26,10 +26,10 @@
 
 | Project | Description | Tech |
 | ------- | ----------- | ---- |
+| [Clarifi](https://github.com/RahulJ0hn/Clarifi) | Smart web monitoring tool that scrapes, summarizes, and answers user queries with LLMs. | React, Python, FastAPI |
 | [DobyNative](https://github.com/RahulJ0hn/DobyNative) | A lightweight mobile app wrapper built with React Native for rapid prototyping. | JavaScript, React Native |
 | [AssignMentor](https://github.com/RahulJ0hn/AssignMentor) | A mentorship matching platform—connects mentors and mentees with instant notifications. | Node.js, Express, MongoDB |
-| [ChatGPT Clone](https://github.com/RahulJ0hn/ChatGPT) | Custom GPT‑powered chat interface with history and rich UI. | JavaScript, HTML/CSS |
-| [DOBYFE](https://github.com/RahulJ0hn/DOBYFE) | Front‑end engine for Doby projects—dynamic theming and plugin support. | JavaScript, Webpack |
+| [portfolio](https://github.com/RahulJ0hn/portfolio) | Personal portfolio website showcasing projects and blog posts. | JavaScript, HTML, CSS |
 
 ## 📈 GitHub Stats
 
