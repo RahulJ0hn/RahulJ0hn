@@ -7,7 +7,7 @@
 - 🌱 Currently exploring advanced OCR pipelines (DocTR) and scalable web migration tools.
 - 👯 Looking to collaborate on open‑source projects in AI-powered developer tooling.
 - 💬 Ask me about PowerBuilder‑to‑React/Angular migration, Streamlit/Flask integrations, or test‑case generation.
-- 📫 Reach me at [rahuljohn1211@gmail.com](mailto:rahuljohn1211@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/rahuljohn1211).
+- 📫 Reach me at [rahuljohn1211@gmail.com](mailto:rahuljohn1211@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/raon-j/).
 
 ## 🔧 Tech Stack
 <p>
